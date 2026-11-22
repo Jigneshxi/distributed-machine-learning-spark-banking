@@ -1,0 +1,11 @@
+# Pinned production and research dependencies for AlmaBetter M2_DML Capstone
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.14.1
+scikit-learn==1.5.2
+reportlab==4.2.5
+pytest==9.2.0
+pypdf==5.1.0
+matplotlib==3.9.2
+seaborn==0.13.2
+python-docx==1.1.2

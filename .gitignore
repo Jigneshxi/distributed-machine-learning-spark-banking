@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.zip
+populate_all_spark_notebooks.py
+create_part2_notebook.py
+create_part3_artifacts.py
+create_part4_artifacts.py
+create_part5_artifacts.py
+create_submission_docs.py
+generate_part1_doc.py
+generate_part2_doc.py
+Sample EDA Submission Template (1).ipynb
+Sample ML Submission Template (1).ipynb
+Data Analysis and Management using Hadoop & Hive (1).docx
+_Predictive Modeling for Banking Trends.docx
+_Efficient Data Handling through Data Parallelism.docx
